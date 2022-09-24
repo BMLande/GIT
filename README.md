@@ -1,4 +1,4 @@
-## Most USed GIT commands
+## Most Used GIT commands
 
 #### Cloning a repositiry
 `$git clone repo-url`
