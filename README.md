@@ -6,8 +6,8 @@
 #### Creating a new branch
 `$git branch -b add_yor_branch_name`
 
-#### Check current status
-`$git branch`
+#### Check current branch status
+`$git status`
 
 #### Check branches
 `$git branch`
